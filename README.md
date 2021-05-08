@@ -6,3 +6,4 @@
     - and some setup.
 - `pipenv --python 3.9`
 - `pipenv install`
+- `pipenv shell`
